@@ -90,6 +90,3 @@ $.post('/validate', myFormData)
 		}
 	});
 ```
-
-
-
