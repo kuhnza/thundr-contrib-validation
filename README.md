@@ -14,7 +14,7 @@ Usage
 <dependency>
 	<groupId>com.threewks.thundr</groupId>
 	<artifactId>thundr-contrib-validation</artifactId>
-	<version>1.0</version>
+	<version>1.0.0</version>
 	<scope>compile</scope>
 </dependency>
 ```
