@@ -6,6 +6,8 @@ thundr-contrib-validation
 The hibernate-validation implementation is used under the covers which provides all the standard JSR annotations
 plus a few really handy ones such as `@NotBlank`.
 
+[![Build Status](https://travis-ci.org/kuhnza/thundr-contrib-validation.png)](https://travis-ci.org/kuhnza/thundr-contrib-validation)
+
 Usage
 -----
 
